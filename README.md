@@ -79,7 +79,7 @@ pytest tests/test_pipeline_smoke.py -q
 
 ## Lizenz
 
-Software: siehe Datei `LICENSE` im Repository, sofern vorhanden. **PaySim** unterliegt den Lizenz- und Nutzungsbedingungen der jeweiligen Quelle (Kaggle), unabhängig von der Lizenz dieses Codes.
+**PaySim** unterliegt den Lizenz- und Nutzungsbedingungen der jeweiligen Quelle (Kaggle), unabhängig von der Lizenz dieses Codes.
 
 ---
 
