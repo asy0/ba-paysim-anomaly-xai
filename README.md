@@ -84,3 +84,7 @@ pytest tests/test_pipeline_smoke.py -q
 ---
 
 **Fehlersuche:** Häufige Ursachen sind eine fehlende `data/paysim.csv` oder eine nicht aktivierte virtuelle Umgebung vor dem Aufruf von `pip` / `streamlit` / `python`.
+
+
+## Hier ist ein kurzes Video, das meinen aktuellen Prototypen in Aktion zeigt:
+https://github.com/user-attachments/assets/a8173299-7559-4078-9fb7-c34d7e412a16
