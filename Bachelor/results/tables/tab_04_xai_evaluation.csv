@@ -1,0 +1,13 @@
+Metrik,Wert
+Faithfulness: mean Δ decision_function (Top-k),0.29911826064601554
+Faithfulness: mean Δ decision_function (Random-k),0.07211239892835769
+"Faithfulness Gap (Top-k − Random-k, höhere Werte günstig)",0.22700586171765785
+Faithfulness: Anteil Zeilen mit Top > Random,1.0
+Faithfulness: k,5.0
+Faithfulness: n evaluierte Zeilen,45.0
+"Stability: mean Jaccard (Top-k über Runs, höhere Werte günstig)",0.9935802469135802
+Stability: median Jaccard,1.0
+Stability: min Jaccard,0.8444444444444441
+Stability: k,5.0
+Stability: Background-Größe,200.0
+Stability: n Wiederholungen,10.0

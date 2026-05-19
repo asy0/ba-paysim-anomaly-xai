@@ -1,0 +1,14 @@
+Rohdaten (Datei):             6,362,620 Transaktionen
+Fraud (Rohdaten):                 8,213
+Max. Sampling:                  200,000
+Nach Sampling + Dedup:          200,000 Transaktionen
+  davon Training (80%):         160,000
+  davon Test (20%):              40,000
+Features:                            14
+Fraud gesamt (nach Prep):           258
+  davon Training:                   206  (0.1288%)
+  davon Test:                        52  (0.1300%)
+Fraud-Rate:                      0.1290%
+random_state:                        42
+n_estimators:                       100
+SHAP background_size:               200

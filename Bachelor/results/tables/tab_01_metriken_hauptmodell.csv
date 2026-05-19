@@ -1,0 +1,2 @@
+contamination,n_estimators,precision,recall,f1,support_fraud,tn,fp,fn,tp,roc_auc
+0.0012875,100,0.0,0.0,0.0,52,39903,45,52,0,0.8536645716354337

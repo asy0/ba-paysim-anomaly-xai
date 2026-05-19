@@ -1,0 +1,6 @@
+rang,test_index,decision_function,true_class,pred_anomaly,top3_features
+1,9905,-0.059204550158126756,0,1,"Betrag (-1.7849), Sender-Bilanzabweichung (-1.6922), Empfänger-Kontostand nachher (-1.5139)"
+2,32835,-0.04144886532736802,0,1,"Betrag (-2.0025), Sender-Bilanzabweichung (-1.9192), Empfänger-Kontostand nachher (-1.7359)"
+3,22934,-0.04040358013896983,0,1,"Betrag (-1.9995), Sender-Bilanzabweichung (-1.9139), Empfänger-Kontostand nachher (-1.7393)"
+4,30642,-0.04040358013896983,0,1,"Betrag (-2.0013), Sender-Bilanzabweichung (-1.9121), Empfänger-Kontostand nachher (-1.7359)"
+5,25857,-0.04040358013896983,0,1,"Betrag (-2.0100), Sender-Bilanzabweichung (-1.9123), Empfänger-Kontostand nachher (-1.6989)"

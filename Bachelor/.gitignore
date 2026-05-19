@@ -1,0 +1,34 @@
+# Nur ausgewählte Projektdateien versionieren (Whitelist)
+*
+
+# Arbeitsmaterialien / Duplikat-Pfad (nicht das Code-Repo)
+Bachelor/
+
+!.gitignore
+
+!data/
+!data/**
+
+!src/
+!src/**
+
+!results/
+!results/**
+
+!tests/
+!tests/**
+
+!models/
+!models/**
+
+!app.py
+!export_results.py
+!requirements.txt
+!README.md
+
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# Zu groß für GitHub (Limit 100 MB); lokal behalten, nicht versionieren
+data/paysim.csv
